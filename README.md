@@ -4,6 +4,8 @@
 
 本项目是一个模块化的音频处理流水线（Pipeline），旨在模拟模拟时代（Analog Era）的音频特征。通过数字信号处理算法（DSP），将现代高清数字音频转换为具有 **磁带（Tape）**、**黑胶（Vinyl）** 或 **老式广播（AM Radio）** 风格的音频。
 
+- **项目地址**：https://github.com/Boooobby/audio-processing
+
 ---
 
 ## ✨ 项目亮点
